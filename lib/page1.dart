@@ -11,7 +11,9 @@ class Page1 extends StatelessWidget {
         title: const Text('Asset Generation'),
       ),
       body: Center(
-        child: Image.asset('assets/dash.png'),
+        child:
+            // Image.asset('assets/dash.png'),
+            Image.asset(Constants.dashImage),
       ),
     );
   }
