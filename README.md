@@ -1,16 +1,15 @@
-# asset_generation
+# Image Asset Generation
 
-A new Flutter project.
+Are you tired of the tedious task of manually managing image assets in your Flutter projects? Say goodbye to the pain of typing asset paths by hand and welcome the era of efficient asset management with 'Flutter Gen'.
 
-## Getting Started
+## Generate Assets Dynamically
 
-This project is a starting point for a Flutter application.
+We will use a package, 'flutter_gen', a flutter code generator for our assets, fonts, colors, etc, to generate the required assets.
 
-A few resources to get you started if this is your first Flutter project:
+Check out these resources to learn about the flutter_gen package and why we should use it:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Streamlining Image Asset Management 👩🏻‍🍳🪄: From Manual Pain to Dynamic Generation](https://medium.com/@akansha.jain1611/b57b7fcb5b9d)
+- [Online Documentation](https://pub.dev/packages/flutter_gen)
+</br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![screen-20231217-194424](https://github.com/jakansha2001/asset_generation/assets/64529996/951962bf-6af5-433d-945e-21ae823352b2)
