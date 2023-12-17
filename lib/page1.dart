@@ -1,4 +1,3 @@
-import 'package:asset_generation/constants/constants.dart';
 import 'package:asset_generation/gen/assets.gen.dart';
 import 'package:flutter/material.dart';
 
@@ -9,7 +8,7 @@ class Page1 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Asset Generation'),
+        title: const Text('Assets'),
       ),
       body: Center(
         child:
