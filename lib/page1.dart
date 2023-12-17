@@ -7,8 +7,23 @@ class Page1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      floatingActionButton: FloatingActionButton(
+        backgroundColor: Colors.blue,
+        onPressed: () {},
+        child: const Icon(
+          Icons.add,
+          color: Colors.white,
+        ),
+      ),
       appBar: AppBar(
-        title: const Text('Assets'),
+        title: const Text(
+          'Image Asset Generation Example',
+          style: TextStyle(
+            color: Colors.white,
+            fontSize: 20,
+          ),
+        ),
+        backgroundColor: Colors.blue,
       ),
       body: Center(
         child:
