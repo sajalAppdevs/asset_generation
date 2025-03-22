@@ -8,7 +8,7 @@ We will use a package, 'flutter_gen', a flutter code generator for our assets, f
 
 Check out these resources to learn about the flutter_gen package and why we should use it:
 
-- [Streamlining Image Asset Management 👩🏻‍🍳🪄: From Manual Pain to Dynamic Generation](https://medium.com/@akansha.jain1611/b57b7fcb5b9d)
+- [Streamlining Image Asset Management 👩🏻‍🍳🪄: From Manual Pain to Dynamic Generation](https://medium.com/@akansha.jain1611/streamlining-image-asset-management-b57b7fcb5b9d)
 - [Online Documentation](https://pub.dev/packages/flutter_gen)
 </br>
 
