@@ -4,18 +4,18 @@ A modern Flutter project that demonstrates efficient asset management using flut
 
 ## 🌟 Features
 
-- **Automated Asset Generation**: Automatically generates type-safe asset classes
-- **Type Safety**: Compile-time verification of asset paths
-- **IDE Support**: Full autocomplete support for assets in your IDE
-- **Cross-Platform**: Works seamlessly across all Flutter-supported platforms
+- **Automated Asset Generation**: Automatically generates type-safe asset classes.
+- **Type Safety**: Compile-time verification of asset paths.
+- **IDE Support**: Full autocomplete support for assets in your IDE.
+- **Cross-Platform**: Works seamlessly across all Flutter-supported platforms.
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- Flutter SDK (stable channel)
+- Flutter SDK (stable channel).
 - Dart SDK
-- Your favorite IDE (VS Code, Android Studio, or IntelliJ)
+- Your favorite IDE (VS Code, Android Studio, or IntelliJ).
 
 ### Installation
 
